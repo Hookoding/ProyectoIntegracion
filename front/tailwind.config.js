@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'mentor': 'url(https://analyticsindiamag.com/wp-content/uploads/2020/05/Mentorship.jpg)'
+        'SDR': 'url(https://www.reddearboles.org/nwlib6/includes/phpthumb/phpThumb.php?src=/imagenes/RSE.png&w=700&f=png)'
       }
     },
   },

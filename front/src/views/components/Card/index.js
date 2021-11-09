@@ -14,7 +14,7 @@ function Card(props) {
                         {props.children}
                     </div>
                     <div className="w-full h-2 bg-blue-200 rounded-full">
-                        <div className="w-3/3 h-full text-center text-xs text-white bg-blue-600 rounded-full">
+                        <div className="w-3/3 h-full text-center text-xs text-white bg-green-600 rounded-full">
                         </div>
                     </div>
                 </div>
